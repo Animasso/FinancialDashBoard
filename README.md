@@ -15,6 +15,21 @@ Ce projet est un tableau de bord financier avec des graphiques interactifs.
 
 ## Installation
 
+### Prérequis
+
+- **Node.js** (pour le frontend)
+- **Java (JDK 17 ou supérieur)** (pour le backend)
+- **Maven**
+
+### Exécution du Projet
+
+1. **Cloner le dépôt :**
+
+   ```bash
+   git clone https://github.com/votre-username/votre-repo.git
+   cd votre-repo/dashboard
+   ```
+
 ### Backend
 
 ```bash
