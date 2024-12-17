@@ -25,15 +25,11 @@ cd Frontend
 npm install
 npm start
 
-## Technologies Utilisées
-
-![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-
 ---
 
-## Logos
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="60" height="60"/>
+### Technologies Utilisées
+React (Frontend)
+Tailwind css(Frontend)
+Java Spring Boot (Backend)
+Recharts (Graphiques)
 ```
